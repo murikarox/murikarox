@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @murikarox
 - 👀 I’m interested in web3, blockchain, security, machine learning, compilers, rust
 - 🌱 I’m currently learning rust
-- 💞️ I’m looking to collaborate on anything that touched above topics
+- 💻 I’m looking to collaborate on anything that touches above topics
 - 📫 How to reach me - email me at murat@eksiventures.com
 
 <!---
